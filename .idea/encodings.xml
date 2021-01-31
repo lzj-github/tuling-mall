@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-authcenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-canal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-coupons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-mbg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-product/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tulingmall-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingmall-security" charset="UTF-8" />
+  </component>
+</project>

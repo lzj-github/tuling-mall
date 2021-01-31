@@ -1,0 +1,4 @@
+# Project exclude paths
+/tulingmall-admin/target/
+/tulingmall-common/target/
+/tulingmall-mbg/target/
